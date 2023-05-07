@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231053048685",
+    "project_id": "mobilalkfejl-ca271",
+    "storage_bucket": "mobilalkfejl-ca271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231053048685:android:3277a9d9551ba8de1e3864",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231053048685-hifi42th92l7fr5l6qd0qo73bnqmjcmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "36360ec1217a44b9cda00d0e42e2588badbddd36"
+          }
+        },
+        {
+          "client_id": "231053048685-kmgmprg2gl8etdsoc9hdc9rqi4c738cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AlzE9Mrd0UHZwrfMtombczauEKDnBHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231053048685-8lsf8cj3aepepiboc08s93hl006jim47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

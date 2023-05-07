@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shopping_item_names">Samsung Galaxy s3</string-array>
+    <string-array name="shopping_item_users">minta</string-array>
+    <string-array name="shopping_item_category">Okostelefon</string-array>
+    <string-array name="shopping_item_price">20000</string-array>
+</resources>
